@@ -1,5 +1,6 @@
 '''
 ML Lecture 1: Regression - Demo
+https://www.youtube.com/watch?v=1UqCjFQiiy0
 
 Task:
   ydata = b + w * xdata
